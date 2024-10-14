@@ -1,7 +1,6 @@
 # BuzzFeed Clone in Angular 
 ## Are you a Hero or a Vilain?
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
 The same project was built for educationar purposes
 
 ## What it does?
